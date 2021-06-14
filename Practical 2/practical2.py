@@ -14,4 +14,3 @@ call=cal2()
 call.setdata()
 call.area()
 call.display()
-© 2021 GitHub, Inc.
