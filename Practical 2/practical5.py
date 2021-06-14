@@ -15,4 +15,3 @@ c=Fieldsalary()
 c.NAME()
 c.DESIGNATION()
 c.salary()
-© 2021 GitHub, Inc.
